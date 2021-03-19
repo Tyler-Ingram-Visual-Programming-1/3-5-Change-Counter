@@ -1,0 +1,10 @@
+C:\Users\tyler\source\repos\Visual-Progamming-1\3-5ChangeCounter\3-5ChangeCounter\bin\Debug\3-5ChangeCounter.exe.config
+C:\Users\tyler\source\repos\Visual-Progamming-1\3-5ChangeCounter\3-5ChangeCounter\bin\Debug\3-5ChangeCounter.exe
+C:\Users\tyler\source\repos\Visual-Progamming-1\3-5ChangeCounter\3-5ChangeCounter\bin\Debug\3-5ChangeCounter.pdb
+C:\Users\tyler\source\repos\Visual-Progamming-1\3-5ChangeCounter\3-5ChangeCounter\obj\Debug\3-5ChangeCounter.csprojAssemblyReference.cache
+C:\Users\tyler\source\repos\Visual-Progamming-1\3-5ChangeCounter\3-5ChangeCounter\obj\Debug\_3_5ChangeCounter.Form1.resources
+C:\Users\tyler\source\repos\Visual-Progamming-1\3-5ChangeCounter\3-5ChangeCounter\obj\Debug\_3_5ChangeCounter.Properties.Resources.resources
+C:\Users\tyler\source\repos\Visual-Progamming-1\3-5ChangeCounter\3-5ChangeCounter\obj\Debug\3-5ChangeCounter.csproj.GenerateResource.cache
+C:\Users\tyler\source\repos\Visual-Progamming-1\3-5ChangeCounter\3-5ChangeCounter\obj\Debug\3-5ChangeCounter.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\Visual-Progamming-1\3-5ChangeCounter\3-5ChangeCounter\obj\Debug\3-5ChangeCounter.exe
+C:\Users\tyler\source\repos\Visual-Progamming-1\3-5ChangeCounter\3-5ChangeCounter\obj\Debug\3-5ChangeCounter.pdb
